@@ -30,3 +30,7 @@ An AI-driven 4-tier hybrid cloud architecture enabling:
 - AI/ML: SageMaker
 - Storage: S3 & Glacier
 - Security: IAM & KMS
+
+## 📊 Existing vs Proposed System Comparison
+
+![Comparison](screenshots/comparison-chart.jpg)
