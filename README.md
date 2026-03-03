@@ -33,4 +33,4 @@ An AI-driven 4-tier hybrid cloud architecture enabling:
 
 ## 📊 Existing vs Proposed System Comparison
 
-![Comparison](screenshots/comparison-chart.jpeg)
+[📊 View Comparison Chart](screenshots/comparison-chart.jpeg)
